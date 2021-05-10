@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+test/* linguist-documentation
+specs/* linguist-documentation
+*.in linguist-documentation
+*.out linguist-documentation
