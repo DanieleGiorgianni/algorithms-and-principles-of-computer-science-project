@@ -28,10 +28,10 @@ The list of commands is the following:<br />
 - end
 
 ## COMPILATION, EXECUTION AND TESTING  
-You can test the program by compiling and then running the source file, entering command line inputs, or using a text file.<br />
+You can test the program by compiling and then running the [source](https://github.com/DanieleGiorgianni/Algorithms_and_Principles_of_Computer_Science-Project_2019/blob/main/project/source.c) file, entering command line inputs, or using a text file.<br />
 To compile the source, use the following statement:<br />
-`gcc -Wmaybe-uninitialized -Wuninitialized -Wall -pedantic -Werror -g3 source.c -o source>`<br />
-To execute the program and testing it (maybe using these public tests as input and their related outputs), execute the two commands respectively:<br />
+`gcc -Wmaybe-uninitialized -Wuninitialized -Wall -pedantic -Werror -g3 source.c -o source`<br />
+To execute the program and testing it (maybe using these public [tests](https://github.com/DanieleGiorgianni/Algorithms_and_Principles_of_Computer_Science-Project_2019/tree/main/test) as input and their related outputs), execute the two commands respectively:<br />
 `cat input.txt | ./source > output.txt`<br />
 `diff output.txt public_output.txt`<br />
-<br />For more details see the specifications (in Italian).<br />
+<br />For more details see the [specifications](https://github.com/DanieleGiorgianni/Algorithms_and_Principles_of_Computer_Science-Project_2019/blob/main/specs/Prova%20Finale%20API.pdf) (in Italian).<br />
