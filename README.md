@@ -1,12 +1,12 @@
 # Algorithms and Principles of Computer Science
 ### Project of the year 2019 in C language   
 ## PROJECT  
-The aim of the project is to design and implement in C language, using standard libraries, a sort of social network where there are entities capable of creating relationships between them.<br />
+The aim of the project is to design and implement in **C language**, using standard libraries, a sort of **social network** where there are *entities* capable of creating *relationships* between them.<br />
 Each entity is characterized by an id and contains all its relationships, that are unidirectional, to the other entities.<br />
 All relationships are characterized by an id, which identifies their type, and are linked to the recipient of the relationship.<br />
 
 ## STRUCTURE  
-The project was developed using multiple double linked lists in order to make efficient the insertion / deletion of entities, the creation / removal of relationships and the printing of the entities-relationships report at a given moment.<br />
+The project was developed using multiple double linked lists in order to make efficient the *insertion / deletion of entities*, the *creation / removal of relationships* and the *printing* of the entities-relationships report at a given moment.<br />
 
 ## COMMANDS  
 The list of commands is the following:<br />
